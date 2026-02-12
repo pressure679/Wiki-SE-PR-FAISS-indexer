@@ -47,33 +47,6 @@ Wikipedia Dump → Text Cleaning → Chunking → Embeddings → FAISS Index →
 
 ---
 
-## 📂 Project Structure
-
-```
-wikipedia-faiss-indexer/
-│
-├── parser.py
-├── chunker.py
-├── embedder.py
-├── indexer.py
-├── query.py
-├── utils.py
-├── data/
-├── index/
-└── README.md
-```
-
----
-
-## 🔧 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/wikipedia-faiss-indexer.git
-cd wikipedia-faiss-indexer
-```
-
 Install dependencies:
 
 ```bash
